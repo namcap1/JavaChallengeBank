@@ -1,0 +1,5 @@
+Bank\AccountControllerTest.class
+Bank\AccountAlteringTest.class
+Bank\BalanceTest.class
+Bank\PrintStatementTest.class
+Bank\AccountOpenTest.class
